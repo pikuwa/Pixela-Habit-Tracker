@@ -128,7 +128,7 @@ Example Output
 
 > Replace with your actual screenshot.
 
-![Terminal Output](Screenshots/terminal-success.png)
+![Terminal Output](Screenshots/terminal_success.png)
 
 ---
 
