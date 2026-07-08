@@ -1,4 +1,4 @@
-# 🚴 Pixela Habit Tracker
+# 🚴 Habit Tracker
 
 A Python-based habit tracking application that records daily cycling distance using the Pixela API. The application allows users to log their daily activity, securely manage API credentials with environment variables, and visualize progress through an interactive graph.
 
