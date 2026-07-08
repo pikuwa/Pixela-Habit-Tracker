@@ -118,8 +118,6 @@ Example Output
 
 ### Graph
 
-> Replace with your actual screenshot.
-
 ![Pixela Graph](Screenshots/graph.png)
 
 ---
