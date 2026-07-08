@@ -27,7 +27,7 @@ A Python-based habit tracking application that records daily cycling distance us
 ## 📂 Project Structure
 
 ```text
-Pixela-Habit-Tracker/
+Habit-Tracker/
 │
 ├── Screenshots/
 │   ├── graph.png
@@ -47,13 +47,13 @@ Pixela-Habit-Tracker/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/pikuwa/Pixela-Habit-Tracker.git
+git clone https://github.com/pikuwa/Habit-Tracker.git
 ```
 
 ### 2️⃣ Navigate to the project
 
 ```bash
-cd Pixela-Habit-Tracker
+cd Habit-Tracker
 ```
 
 ### 3️⃣ Create a virtual environment
