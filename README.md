@@ -124,8 +124,6 @@ Example Output
 
 ### Terminal Output
 
-> Replace with your actual screenshot.
-
 ![Terminal Output](Screenshots/terminal-success.png)
 
 ---
@@ -154,10 +152,10 @@ Pixela REST API
 
 ## 👨‍💻 Author
 
-**Pratik Kumar Prajapati**
+**Pratik Prajapati**
 
 - GitHub: https://github.com/pikuwa
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/pratikxdev
 
 ---
 
